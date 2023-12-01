@@ -13,8 +13,6 @@
 
 <ul>
   <li>Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?</li>
-  <li>Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?</li>
-  <li>A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?</li>
 </ul>
 
 <p>O conjunto de dados que representam o contexto está disponível na plataforma do Kaggle.</p>
